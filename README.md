@@ -1,0 +1,2 @@
+# interreg_ITA_CHF_rendicontazione
+modulo interativo beneficiari programma
